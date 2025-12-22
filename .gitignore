@@ -1,0 +1,19 @@
+# Compilados e Binários
+*.o
+*.exe
+*.out
+*.app
+bin/
+build/
+obj/
+
+# Arquivos temporários e de sistema
+.DS_Store
+thumbs.db
+*.log
+*.tmp
+
+# VS Code e Editores
+.vscode/
+.idea/
+*.swp
