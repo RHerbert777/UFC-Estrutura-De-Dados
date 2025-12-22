@@ -1,0 +1,4 @@
+Lista simplismente encadeada onde tenho uma cabeça que aponta 
+para o primeiro elemento e o ultimo elemento aponta para NULL
+
+
