@@ -1,0 +1,6 @@
+    O ultimo a entrar é o primeiro a sair, ideia de pratos onde o topo seria o 
+primeiro a sair, esse codigo é empilhamento de caracteres.
+
+utilizarei uma lista simplismente encadeada com uma struct para topo e valor do topo O
+primeiro elemento apontando para NULL e um estruct stack com a posição do topo e o tamanho
+da pilha atualizando esse valor quando.
