@@ -1,0 +1,23 @@
+Fila temos uma lista de afazeres e queremos que o primeiro
+a chegar seja o primeiro a ser executar como uma impresora
+
+utilizando lista simplismente encadeada e uma estrutura para
+primeiro e ultimo elemento como tambem um size para verificar
+tamanho.
+
+
+
+
+
+
+Como compilar no terminal:
+
+gcc -Wall -Wextra -std=c11 main.c Queue.c -o main 
+
+Como executar no terminal do linux:
+
+./main
+
+Como executar no Windows:
+
+.\main.exe 
